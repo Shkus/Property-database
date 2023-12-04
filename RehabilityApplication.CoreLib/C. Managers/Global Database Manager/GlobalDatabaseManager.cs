@@ -23,7 +23,7 @@ namespace RehabilityApplication.CoreLib
                 Name = "Василий", Surname = "Шкурихин", Id = 1462846866
             });
 
-            for (int i = 0; i < 10000; i++)
+            for (int i = 0; i < 1000; i++)
             {
                 long number = 100000000000;
                 long snils = number + i;
